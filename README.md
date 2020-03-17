@@ -67,6 +67,7 @@ Dates 3/16-3/25
 ### Sign off
 
 **Student Name:**                
-> Sukhrobjon Golibboev / 03/17/2020
+> Sukhrobjon Golibboev Date: 03/17/2020
+
 **Make School Advisor Name**
 > TBD

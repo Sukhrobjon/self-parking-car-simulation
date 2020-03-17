@@ -5,35 +5,39 @@ Dates 3/16-3/25
 **My Name: Sukhrob Golibboev**
 
 
-**Project Name: Self Parking Simulation** 
+**Project Name: Self Parking Car Simulation** 
 
 
 **Is your project New or Old?**
-- Old Porject
+    - Old Porject
 
 **Is your project Solo or Team?**
-- Team Project
+    - Team Project
 
 ## Description
 
-**The project is self parking car simulation built using pygame and trained using reinforcement learning with deep learning. In this project Sam and I are working on improving the performance of existing model and have better results. The following objectives reflects the steps we are going to take in order to meet the requirements.**
+**The project is self parking car simulation built using pygame and trained using reinforcement learning with deep learning. In this project [Sam](https://github.com/SWHarrison) and I are working on improving the performance of existing model and have better results. The following objectives reflects the steps we are going to take in order to meet the requirements.**
 
-## Objective 1: say your objective here, you must have at least three objectives to get credit for the intensive… accomplishing objective should be done by soley you
+## Objective 1: Retool reward structure to better train the model.
 
 **Why do you want to meet this objective? How will it improve your project?** 
+    - Currently, we have simple version of reward system. Model trains faster, and gets the target result. Improved reward system can give much better insights to model, so it does not have to run over 2-4 hours to park the car. 
+    
+**How will you demonstrate completion of your objective?**
+    - Link to github commits.
 
-**How will you demonstrate completion of your objective?** 
-
-## Objective 2: ... say your objective to accomplish here …
+## Objective 2: Testing/Comparing different type of model architectures.
 **Why do you want to meet this objective? How will it improve your project?** 
+- Compare deep/narrow vs wide/shallow model. It can improve the run time and accuracy of the model if we choose right arcitectural for neural network. 
 
-**How will you demonstrate completion of your objective?** 
+**How will you demonstrate completion of your objective?**
+- Link to github commits. Create a matrics to evalaute the different models.
 
-## Objective 3: ... say your objective to accomplish here …
+## Objective 3: Headless training - no visual.
 **Why do you want to meet this objective? How will it improve your project?** 
-
+- Since, displaying the parking lot environment takes time during training, with headless training we can let the model do the math on the background.
 **How will you demonstrate completion of your objective?** 
-
+- Link to github
 ## Stretch goals (optional):
 
 **What stretch goals do you have for your project?**
@@ -56,13 +60,13 @@ Dates 3/16-3/25
 
 
 ## Approval Checklist
-- [ ] If I have a team project, I wrote this proposal to represent my work and only my work
-- [ ] I have completed all the necessary parts of this proposal
-- [ ] I linked my proposal in the Spring Intensive Tracker
+- [X] If I have a team project, I wrote this proposal to represent my work and only my work
+- [X] I have completed all the necessary parts of this proposal
+- [X] I linked my proposal in the Spring Intensive Tracker
 
 ### Sign off
 
 **Student Name:**                
-> Name / Date
+> Sukhrobjon Golibboev / 03/17/2020
 **Make School Advisor Name**
 > TBD

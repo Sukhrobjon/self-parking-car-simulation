@@ -33,7 +33,7 @@ Dates 3/16-3/25
 **How will you demonstrate completion of your objective?**
 - Link to github commits. Create a metrics to evalaute the different models.
 
-## Objective 3: Headless training - no visual.
+## Objective 3: Headless training - no visual training.
 **Why do you want to meet this objective? How will it improve your project?** 
 - Since, displaying the parking lot environment takes time during training, with headless training we can let the model do the math on the background.
 **How will you demonstrate completion of your objective?** 

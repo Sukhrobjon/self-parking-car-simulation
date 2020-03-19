@@ -21,17 +21,17 @@ Dates 3/16-3/25
 ## Objective 1: Retool reward structure to better train the model.
 
 **Why do you want to meet this objective? How will it improve your project?** 
-    - Currently, we have simple version of reward system. Model trains faster, and gets the target result. Improved reward system can give much better insights to model, so it does not have to run over 2-4 hours to park the car. 
+- Currently, we have simple version of reward system. Model trains faster, and gets the target result. Improved reward system can give much better insights to model, so it does not have to run over 2-4 hours to park the car. 
     
 **How will you demonstrate completion of your objective?**
-    - Link to github commits.
+- Link to github commits.
 
 ## Objective 2: Testing/Comparing different type of model architectures.
 **Why do you want to meet this objective? How will it improve your project?** 
 - Compare deep/narrow vs wide/shallow model. It can improve the run time and accuracy of the model if we choose right arcitectural for neural network. 
 
 **How will you demonstrate completion of your objective?**
-- Link to github commits. Create a matrics to evalaute the different models.
+- Link to github commits. Create a metrics to evalaute the different models.
 
 ## Objective 3: Headless training - no visual.
 **Why do you want to meet this objective? How will it improve your project?** 
